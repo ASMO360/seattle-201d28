@@ -1,10 +1,4 @@
 # Code 201: Foundations of Software Development
-This *private* repo is a work in progress. You may extract the contents of this repo to use in your course as necessary.
-
-General resources for the Code 201 course including sample code, assignment answers, and handouts for instructors and TAs.
-
----
-
 Welcome to Code 201! This is a class that builds on your foundational knowledge of HTML, CSS, JavaScript, git, and general web development, to prepare you for the deep dive of any Code 301 class.
 
 # Introduction

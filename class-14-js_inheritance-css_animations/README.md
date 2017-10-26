@@ -1,36 +1,82 @@
 <a id="top"></a>
-# Class 14: Advanced JS Topics and CSS Animations
+# Today's Plan: Lecture 14
 
-### Overview
+- Announcements
+- [Code Review](#codereview) *[30 minutes]*
+- [Go over the assigned readings](#readings) *[60 minutes]*
+- [Code demo](#code) *[60 minutes]*
+- [Project Pitches](#pitches) *[30 minutes]*
 
-This is another big day for code review. Ideally, all students have finished the vote tracker project, and the code review is a bit of a victory lap—this is also a chance to look at variances in approach. It’s also a good point to discuss refactoring, DRY concepts, and optimization again.
+**Learning Objectives**
 
-Also, continue with review of student final projects from prior cohorts, again, striving for concepts in UI/UX and also to help students get a feel for the scope of the final projects. The first round of project pitches should be done today, so it is really time for students to start mentally transitioning into a Project Week mentality. Today is a good day to post project groups so students can begin to discuss ideas with their group members.
+As a result of completing Lecture 14 of Code 201, students will:
+- Be able to demonstrate understanding of JavaScript inheritance, as measured by a quiz administered in Canvas and the Code 301 entrance exam.
+- Be able to integrate CSS animations into a code project, measured through inclusion in this week’s project or the final project.
 
-The public folder contains a group agreement form. Encourage the groups to take time to discuss the topics in this agreement as part of their planning process. 
+# Readings
 
-There are two new topics today: JavaScript inheritance and CSS animations. Depending on the cohort, these topics could be handled in a variety of ways with varying levels of depth. If it is an advanced cohort, this is a time to go as deep as possible and whet their appetites for high-level topics that are available to them outside of Code Fellows for them to study.
+- CSS Transforms, Transitions, & Animations (listed below)
 
-For the JavaScript piece, possible readings include selections from Eloquent Javascript, You Don't Know JS, or Eric Elliott articles linked in the class readme.
+---
 
-For the CSS animations, start by looking at the examples in the reading assignment in Canvas, and go from there into other examples that can be found in Codepen, or get under the hood of one of the examples and take apart the CSS behind it.
+<a id="codereview"></a>
+### Code Review
 
-### Class 14 Lecture: Advanced JS Topics and CSS Animations
-* Psychological Safety
-  * Brook will start the day by leading a 30-minute discussion on psychological safety and how it relates to project week.
-* Code Review
-  * Today's code review can be briefer, focusing on the local storage functionality as most of the other functionality was covered during code review earlier in the week
-* Advanced JS Topics
-  * The public-facing readme has a list of potential topics for this segment. Edit them as needed for your cohort.
-* Code Demo
-  * Go over a demonstration of a CSS animation, or prepare an example and explain the CSS during the demo.
+We'll do code reviews to begin class most days
 
 [-top-](#top)
 
-### Class 14 Lab: Create an Order Form & Shopping Cart
+---
 
-Today's lab is another stand-alone lab. This one does not have a time limit and is due before the beginning of the next class. It can help to create the pairs from the project groups to catch any potential conflicts, then post the project groups later in the afternoon so adjustments can be made, if needed.
+### Advanced JS Topics
 
-The lab for today is to create a shopping cart for the Busmall products. Students may struggle with linking between the two HTML pages, event handlers for adding or deleting an item from the shopping cart, or capturing user input from the fields. This is a good exercise to reinforce local storage, as persistence is a requirement of the final projects.
+* [The State of JS 2016](http://stateofjs.com/2016/flavors/)
+* [2017 Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2017)
+* [How it Feels to Learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.ygr5pmdqy)
+* [String methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+* [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* IIFEs
+* D.R.Y.
+* [Basics of "pass by value" vs. "pass by reference"](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+* Prototypal inheritance
+* Scopes & closures
+* Node
+
+* Suggested JS readings
+  * [Eloquent JavaScript](http://eloquentjavascript.net/)
+  * [JS, the Good Parts](http://shop.oreilly.com/product/9780596517748.do)
+  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+  * [Eric Elliott's articles on Medium](https://medium.com/@_ericelliott)
+  * [this](http://rainsoft.io/gentle-explanation-of-this-in-javascript)
+
+<a id="readings"></a>
+### Go over the assigned readings
+
+**CSS Transforms, Transitions, & Animations**
+
+- [Read this article on CSS Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms/)
+- [Read this article on CSS Transitions & Animations](http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+- [8 simple CSS3 transitions that will wow your users](http://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
+- [6 Buttons animated](http://codepen.io/retyui/pen/ByoaXV)
+- [CSS3 Animations: Keyframes](http://codepen.io/akshaychauhan/pen/oAfae)
+- [ANIMATE!](http://codepen.io/ryansobol/pen/NPZrNw)
+- [404](http://codepen.io/kieranfivestars/pen/MYdQxX)
+- [Pure CSS Bounce Animation](http://codepen.io/dp_lewis/pen/gCfBv)
+
+[-top-](#top)
+
+---
+
+<a id="code"></a>
+### Live code
+
+This code demo is to help students be ready to complete the first assignment, and also to show off some functionality of the REPL and Chrome Developer Tools.
+
+[-top-](#top)
+
+<a id="pitches"></a>
+### Project Pitches
+
+(make a list of pitched projects here)
 
 [-top-](#top)

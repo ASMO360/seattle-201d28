@@ -1,40 +1,49 @@
 <a id="top"></a>
-# Class 9: Advanced Topics in CSS Layout
+# Today's Plan: Lecture 9
 
-### Overview
+#### We will start today by reviewing Quiz 4.
 
-Of all the class days in the course, this is the one that is left the most wide open. Why? It’s simply impossible to predict where the class is going to be at this point due to the extreme and heavy challenges of the past three days. Some students need a day that is mostly review of the first three days of the week. On the other hand, some students are ready to take on some new material. Most cohorts contain some mix of those two kinds of students. For the purposes of this guide we will assume that today is mostly a half/half blend of the two extremes.
+#### Quiz 5 will be published this afternoon and is due at 11:59pm tomorrow night.
 
-Code review is a big part of today’s class. Expect to spend at least an hour in code review, if not 90 minutes.
+- Announcements
+  - It's not to soon to start thinking about final projects. Let's have a conversation about that, because a week from tomorrow you're going to be divided up into teams and starting on your projects.
 
-The new content for today involves CSS layout. Again, the details of the extent that topics are covered here is likely going to vary, but we will assume that at the very least, a structured review of the CSS layout fundamentals is called for, so as to serve as a foundation for extending into new topics, such as grid systems or responsive design.
+- [Code Review of the weekly project](#codereview) *[75 minutes]*
 
-This is also a day that there can be a discussion of UI/UX, as well as discussion of style concerns.
+- [Layout Demo 1](#layout1) *[60 minutes]*
+
+*15-minute break*
+
+- [Layout Demo 2](#layout2) *[75 minutes]*
+
+**Learning Objectives**
+
+As a result of completing Lecture 9 of Code 201, students will:
+- Have nailed down the functionality of their retail/data/table app, as measured by successful completion of the daily code assignments of the previous three days.
+- Demonstrate understanding of fundamental CSS layout principles including block, inline, normal, relative, absolute, float, and fixed, as measured by successful completion of the daily code assignment and on a quiz administered in Canvas
+- Demonstrate understanding of advanced CSS layout principles including fixed vs. liquid layouts, as well as grid systems, as measured by successful completion of the daily code assignment and on a quiz administered in Canvas
+
+
+## Readings due today
+
+<a id="layout1"></a>
+## Layout Demo 1
+
+*(Here's a reminder of topics from Chapter 15 on CSS layout)*
+
+- p.361: Key concepts in positioning (block/inline)
+- p.363-76: Controlling the position of elements (normal, relative, absolute, fixed, floating)
+- pp.377-8: Screen sizes and resolutions
+- p.379: Page sizes
+- p.381-6: Fixed & liquid layouts
+- p.387: Layout grids
+- p.391: CSS frameworks
 
 [-top-](#top)
 
-### Class 9 Lecture: Advanced Topics in CSS Layout
+<a id="layout2"></a>
+## Layout Demo 2
 
-* Code Review
-  * Some potential topics to address during code review include:
-    * The importance of reading and implementing the technical requirements for each lab. Remind students that the TAs use the technical requirements as a reference when grading assignments.
-    * The importance of taking the time to plan out their project before jumping into writing code. It is tempting to jump right into the assignment of the day, but planning can save a lot of their debugging time (as well as the time of the instructional staff)
-* HTML/CSS book, Ch. 15, “Layout” (reminder/review from Class 4)  
-	* p.361: Key concepts in positioning (block/inline)  
-	* p.363-76: Controlling the position of elements (normal, relative, absolute, fixed, floating)  
-	* pp.377-8: Screen sizes and resolutions  
-	* p.379: Page sizes  
-	* p.381-6: Fixed & liquid layouts  
-	* p.387: Layout grids  
-	* p.391: CSS frameworks  
-* Code Demo
-  * Today and tomorrow are heavily focused on CSS and UI/UX. This is a good time to revisit [Learn Layout](http://learnlayout.com/) as a useful resource for any students struggling with CSS.
-  * Walk through the proper approach to creating an HTML and CSS project when given a basic wireframe. This will help prepare for tomorrow's lab as well.
-
-[-top-](#top)
-
-### Class 9 Lab: Work on Styling the Cookie Stand Project
-
-Today's lab is not as intense as the previous three days. Students should focus on mopping up any non-functional pieces of their code, and adding styling as they are able to.
+This will probably be an example of a fixed layout and an example of a grid layout, or maybe just a bunch of basic exercises in layout.
 
 [-top-](#top)

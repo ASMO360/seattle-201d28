@@ -1,85 +1,100 @@
-<a id="top"></a>
-
 # Class 3: HTML Lists, Control Flow with JS, and the CSS Box Model
 
-### Overview
-Class 3 is a big conceptual day, and usually the first day for serious cracks to appear in the knowledge that the students were supposed to acquire via the prework. In particular, concepts in control flow cause the most trouble because of how the various structures can be applied to similar problems (doing the same task with an ‘if’ or a ‘while’, for instance). Infinite loops are inevitable and always cause a lot of frustration. Also provide an introduction to truthy/falsy conditions (probably best done by listing the falsy cases alone; all else is truthy).
+<a id="top"></a>
+# Today's Plan: Lecture 3
 
-Introduction to the CSS box model also exposes potential weaknesses in knowledge and concepts from the prework; furthermore, the integration with the developer tools in Chrome and also the necessity of understanding pixels as a measurement unit adds a new layer of complexity to what the students have already seen.
+##### Quiz 1 will be published today and will be due at 11:59pm tomorrow night
 
-### Class 3 Lecture: HTML Lists, Control Flow with JS, and the CSS Box Model
-* Code Review
-* Review of Reading Assignments:
-  * Important points for each chapter
-    * HTML/CSS book, Ch. 3, “Lists”
-      * p.65: Ordered/numbered lists
-      * p.66: Unordered/bullet lists
-      * p.67: Definition lists
-      * p.68: Nested lists
-        * Students might not immediately see the value of organizing a webpage with lists. Navigate to a website (espn.com is a good example) and remove the styling to demonstrate that many websites use lists and the layout is all CSS. This will help clarify the point that both HTML and CSS are valuable for their intended purposes.
-    * HTML/CSS book, Ch. 13, “Boxes”
-      * p.303: Box width, height, overflow
-      * p.307: Border, margin, & padding
-        * Demonstrate this section using a tool like [CodePen](https://codepen.io/pen/) to show real-time changes
-        * Provide students with acronym for remembering the order of arguments:
-          * "Trouble" aka TRBL = top, right, bottom, left
-      * p.308: Border width, style, & color
-      * p.315: Centering content
-      * p.317: Changing inline/block
-      * p.318: Visibility
-        * Point out the difference between `display: none` and `visibility: hidden`
-      * p.321: Additional border topics (border images, box shadow, border radius)
-    * JavaScript book, Ch. 4, “Decisions and Loops”
-      * p.148: Decision making
-      * p.149: Evaluating conditionals & conditional statements
-      * p.150: Comparison operators: evaluating conditions
-      * p.152: Structuring comparison operators
-      * p.156: Logical operators
-        * Demonstrate the difference between evaluating an expression with `&&` compared to `||`
-      * p.160: ‘If’ statements
-      * p.162: ‘If...else’ statements
-      * p.164: ‘Switch’ statements
-      * p.166: Type coercion and weak typing
-      * p.167: Truthy & falsy values
-      * p.168: Checking equality & existence
-      * p.169: Short circuit values
-      * p.170: Loops & loop counters
-      * p.172: Looping
-      * p.174: Key loop concepts (‘break’, ‘continue’)
-      * p.175: Using ‘for’ loops
-      * p.176: Using ‘while’ loops
-      * p.177: Using ‘do...while’ loops
-* Live Code Demo
-  * This is a good opportunity to expose students to helpful online tools, if not already exposed
-    * [Code Pen](https://codepen.io/pen/)
-    * [repl.it](https://repl.it/languages/javascript)
-  * Avoid introducing `typeof` and `parseInt` today. Allow students the opportunity to discover the solution on their own or seek out advice from their peers or the instructional team.
-  * It can be helpful to approach the demonstrations in pseudocode first. This serves two purposes: walking through the logic at a higher level, and showing students how to write pseudocode.
+##### Quiz 2 will be published after lab tomorrow and will be due at 11:59pm Friday night
 
-```javascript
-  for(starting val; condition; increment) {
-    do something for a finite number of times
-  }
-```
-```javascript
-  while(true) {
-    do something until the condition is false
-  }
-```
-```javascript
-  do {
-    do this at least once and until the condition is false
-  } while (condition)
-```
+####Announcements
 
+####Schedule for today
+
+- [Code Review](#codereview) *[30 minutes]*
+- [JS Control Flow](#control) *[45 minutes]*
+
+**15 minute break**
+
+- [CSS Box Model](#box) *[30 minutes]*
+- [Git Branches & Lab Prep](#git) *[45 minutes]*
+
+**Learning Objectives**
+
+As a result of completing Lecture 3 of Code 201, students will:
+
+- Demonstrate understanding of and classify assorted control flow techniques in JavaScript including ‘for’ loops, ‘if’ and if/else’, as well as  ‘while’ and ‘do/while’ structures, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
+- Demonstrate understanding of and explain what HTML element attributes are and how to use them, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
+- Demonstrate understanding of and illustrate the CSS box model, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
+
+## Readings
+
+- HTML Chapter 3: "Lists"
+- JS Chapter 4: "Decisions & Loops"
+- HTML Chapter 13: "Boxes" (CSS)
+
+We're not going to go over the chapter on HTML lists in much detail in class but feel free to ask questions. It's pretty easy. Here's what's in that chapter:
+
+**HTML Chapter 3: "Lists"**
+
+- p.65: Ordered/numbered lists
+- p.66: Unordered/bullet lists
+- p.67: Definition lists
+- p.68: Nested lists
+
+<a id="codereview"></a>
+## **Code Review**
+
+Let's take about 30 minutes to do our first code review session. We're going to look at someone's code, have students read through it and explain it, take questions, and so on. Code review is an important part of professional development processes and also a key part of our learning environment in this course.
 
 [-top-](#top)
 
-### Class 3 Lab: Extend your ‘About Me’ Page and Guessing Game
-The goal for today is to get the students comfortable working with the entire toolchain.
+## JS Control Flow
 
-Point out that the technical requirements carry over from any prior labs for each week. For example, they are responsible for the tasks of lab 2 in addition to the tasks assigned in lab 3.
+**JS Chapter 4: "Decisions & Loops"**
 
-This lab provides a great opportunity for the instructional staff to help students work through their debugging process in the Chrome console and using console.log messages. The instructional staff should also make sure to ask students to explain what they are attempting to accomplish so students get used to talking about their code.
+- p.148 	Decision making
+- p.149 	Evaluating conditionals & conditional statements
+- p.150 	Comparison operators: evaluating conditions
+- p.152 	Structuring comparison operators
+- p.156 	Logical operators
+- p.160 	‘If’ statements
+- p.162 	‘If...else’ statements
+- p.164 	‘Switch’ statements
+- p.166 	Type coercion and weak typing
+- p.167 	Truthy & falsy values
+- p.168 	Checking equality & existence
+- p.169 	Short circuit values
+- p.170 	Loops & loop counters
+- p.172 	Looping
+- p.174 	Key loop concepts (‘break’, ‘continue’)
+- p.175 	Using ‘for’ loops
+- p.176 	Using ‘while’ loops
+- p.177 	Using ‘do...while’ loops
 
 [-top-](#top)
+
+<a id="box"></a>
+## CSS Box Model
+
+**HTML Chapter 13: "Boxes" (CSS)**
+
+- p.303: Box width, height, overflow
+- p.307: Border, margin, & padding
+- p.308: Border width, style, & color
+- p.315: Centering content
+- p.317: Changing inline/block
+- p.318: Visibility
+- p.321: Additional border topics (border images, box shadow, border radius)
+
+[-top-](#top)
+
+## Git Branches & Lab Prep
+
+[Slides on using branches in Git](slides/git-branching.pdf)
+
+We're going to go over the use of branches in Git and how that integrates into workflow. Up to this point we've been doing everything in the master branch, but from this day forward, you should generally never work in master on your own laptop except in specific use cases.
+
+[-top-](#top)
+
+<a id="control"></a>

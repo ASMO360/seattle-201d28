@@ -1,48 +1,66 @@
 <a id="top"></a>
-# Class 12: Adding Charts to the Vote Tracker App
+# Today's Plan: Lecture 12
 
-### Overview
+- Announcements
+  - Project Week is getting closer!
+  - First round of project pitches
+  - Second round of project pitches & set project teams
+- [Code Review](#codereview) *[60 minutes]*
+- [Go over the assigned readings](#readings) *[60 minutes]*
+- [Code demo](#code) *[90 minutes]*
 
-Start with a code review session to assess the progress the class made on yesterday’s assignment. More discussion on organization and planning of a code project is often warranted, as students tend to struggle with writing code that does too much at once.
+**Learning Objectives**
 
-Many students will come into today's lecture and not have the first day of their lab completed. Reassure them that that is normal for this point in the course and today's lab assignment is lighter in order to give them time to catch up. Depending on the cohort, a longer code review may be needed.
+As a result of completing Lecture 12 of Code 201, students will:
+- Demonstrate understanding of how the <canvas> element can be used, as demonstrated by observations of the instructional staff during class discussion and a quiz administered through Canvas.
+- Demonstrate the ability to read documentation to utilize a JavaScript library, as demonstrated by successful completion of the daily code assignment
 
-The focus for today is to utilize a 3rd-party chart library so that students can provide a graphical representation of the click data that they are collecting from their vote tracker. This involves a discussion of the `<canvas>` element, which is where the chart library actually does its thing.
+# Readings
 
-There are a lot of side topics tied into utilization of the chart library, many of which connect to real-world activities of web development:
-* Read an article about a new technique or technology.
-* Read/skim the documentation the documentation that comes with it.
-* Being an autodidact with code.
-* Building something with the new tool.
-* Side discussion: minification and use of a CDN.
+- Read about the \<canvas\> API
+- [Read this article on ChartJS](http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+- [Look over the ChartJS documentation](http://www.chartjs.org/docs/)
 
-There’s a lot of opportunity to explore some high-level topics today if the cohort is ready. Or, it might need to be a day that is more direct and instructional. It all depends on the cohort.
+---
 
-One more thing we start doing at this time is looking at student projects from prior cohorts so that the students can start getting a feel for the scope of the projects in general. We like to discuss the successful ones as well as certain  aspects of them that needed more  UI/UX attention.
+<a id="codereview"></a>
+### Code Review
 
-### Class 12 Lecture: Adding Charts to the Vote Tracker App
-* Code Review
-  * Depending on the cohort, a demo of a build-out may be more appropriate.
-* Review of Readings
-  * Students should get used to reading and deciphering documentation and those who have outstanding writing skills can consider developing a specialty in technical writing.  
-  * Everything you need to know to use an API *cannot* be found in its docs.   
-  * Documentation: [HTML `<canvas>` element docs](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
-    * Provide a high-level overview of the `<canvas>` element
-  * Article: [“Easily Create Stunning Animated Charts With Chart.js” by Sara Vieira](http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
-    * Articles like this are often a good way to get an introduction to something new because they are quick and easy to digest and provide a starting point for more advanced study.  
-    * Writing articles like this is a good way to make yourself known and to establish a reputation.  
-    * Point out that this article is older (2013) and the code samples are from an earlier version of the library
-    * This may be a good time to discuss semantic software versioning
-  * Documentation: [Chart.js docs](http://www.chartjs.org/docs/latest/)
-    * Explain the difference between downloading the latest version vs. using a CDN
-
+We'll do code reviews to begin class today and examine the planning/design processes that were used.
 
 [-top-](#top)
 
-### Lab 12: Add a Chart To Your Vote Tracker
+---
 
-Because of the large building from yesterday's lab, today is meant to be a catch-up day. The only lab requirement is to take the data from the list and render it as a chart using the Chart.js library.
+<a id="readings"></a>
+### Go over the assigned readings
 
-Remind students that they need to have full functionality before moving on to the chart implementation. If they are not tracking clicks and votes yet, it is not a good use of time to attempt the chart yet.
+**Read about the \<canvas\> API**
+
+Read the following articles on the Canvas API.
+
+1. [Basic usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+2. [Drawing shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+3. [Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+4. [Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+
+**Read this article on ChartJS**
+
+- [Read this article on ChartJS](http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+- Articles like this are often a good way to get an introduction to something new
+
+**Look over the ChartJS documentation**
+
+- [Look over the ChartJS documentation](http://www.chartjs.org/docs/)
+- Students should get used to reading and deciphering documentation... and those who have outstanding writing skills can consider developing a specialty in technical writing.
+
+[-top-](#top)
+
+---
+
+<a id="code"></a>
+### Live code
+
+This code demo will show how to implement ChartJS.
 
 [-top-](#top)
