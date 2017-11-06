@@ -7,12 +7,11 @@ This first day of class is an all-day session with the students that is mostly l
 
 - [Kickoff! (with slides)](#kickoff) *[30 minutes]*
 - [Academic Overview (with slides)](#academic) *[60 minutes]*
+- Canvas (calendar)/Slack
 - [Unix & Git (with slides)](#ug) *[60 minutes]*
-- [Go over the assigned readings](#readings) *[30 minutes]*
 
 *Lunch Break*
 
-- [Continuing going over the assigned readings](#readings) *[30-60 minutes]*
 - [Code demo to prep for lab](#code) *[60 minutes]*
 - [LAB](#lab) *[until 5:00]*
   - Write code as outlined in the lab assignment
@@ -128,7 +127,7 @@ Have students go to the command line and `apm install linter-eslint`. Have them 
 - p.30 	Events
 - p.36 	Browsers & document object
 - p.40 	How a browser sees a web page
-- p.44 	How HTML, CSS, JS work together			
+- p.44 	How HTML, CSS, JS work together
 - p.45 	Progressive enhancement
 - p.51 	JavaScript runs where it is found in the HTML
 
