@@ -8,6 +8,7 @@
 ####Class Roadmap for Today
 - Notes:
   - Anything top of mind?
+  - Quiz 1 will be published this afternoon
 
 - Code Review - We'll be starting tomorrow!
 - HTML - Text, Layout & Semantic HTML5
@@ -30,22 +31,6 @@
 - GitHub - Introduction
   - Code Collaboration
 
-####Announcements:
- - Quiz 1 will be published at the end of lab this afternoon, and it will be due by 11:59pm Wednesday. We will go over it during the next lecture. More about quizzes:
- 	- Note that there will be some quiz content from time to time that we may not have covered yet for instance something on the quiz published today that we do not cover until tomorrow.
- 	- Keep in mind that you have unlimited re-takes on the quizzes, and also that the quizzes are designed to be treated like they are open-book. It's more about what you can figure out than what you have memorized.
-	- Also, note that the quizzes have two main purposes:
-  			1. To get you to re-engage with the content in a different way, reinforcing your knowledge.
-  			2. To help you prepare for the Code 301 entrance exam, which you will take at the end of Week 3. There is a minimum threshold you must pass on that exam (70%), and also, that exam factors into your grade in this class.
-
-- There will be lots of detail work today on JS and CSS. We're going forward with the expectation that you will need minimal instruction on HTML except for concepts and overview of practices, and the specifics of how to interface with JS and CSS.
-
-- **Be sure to raise questions** about any topics that you'd like clarity about. If it is a topic that we will cover in the future, We'll let you know and maybe give a quick answer for meow. On this day in particular, where we have so much to cover, it is important to avoid going down time-consuming rabbit-holes.
-
-- The reasons for going over the JS and CSS chapters in so much detail this morning, even though they do overlap with the pre-work quite a bit:
-  1. Not everyone got the same amount of benefit/knowledge from completing pre-work.
-  2. There are gaps, and omissions, and depth of the subject matter that need to be addressed.
-  3. We're focusing on translating into "how we use this" and getting practice in applying this material within our new IDE (Integrated Development Environment) of Atom, Chrome, and the terminal.
 
 **Learning Objectives**
 
