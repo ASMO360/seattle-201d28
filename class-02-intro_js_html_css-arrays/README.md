@@ -6,13 +6,29 @@
 #### Quiz 1 will be published this afternoon. It will be due at 11:59pm tomorrow night (late Wednesday)
 
 ####Class Roadmap for Today
+- Notes:
+  - Anything top of mind?
 
-- [Topics from HTML readings](#html) *[15 minutes]*
-- [Topics from CSS readings](#css) *[30 minutes]*
-- [Topics from JS readings](#js) *[45 minutes]*
-- *15 minute break*
-- [Learning Journal + `git init`](#lj) *[30 minutes]*
-- [Review lab assignment, code demo, `git clone`](#code) *[45 minutes]*
+- Code Review - We'll be starting tomorrow!
+- HTML - Text, Layout & Semantic HTML5
+- CSS - Introduction:
+  - Inline vs Links
+  - Cascade effect
+  - Basic properties and values
+
+- JS - Review:
+  - Object oriented (properties)
+  - Browser Environment
+  - Data Types
+  - Naming
+  - Arrays
+
+- Learning Journal: Intro
+- Git - Introduction
+  - Repositories
+  - Version Control Commands
+- GitHub - Introduction
+  - Code Collaboration
 
 ####Announcements:
  - Quiz 1 will be published at the end of lab this afternoon, and it will be due by 11:59pm Wednesday. We will go over it during the next lecture. More about quizzes:
@@ -93,7 +109,7 @@ As a result of completing Lecture 2 of Code 201, students will:
 - p.30 	Events
 - p.36 	Browsers & document object
 - p.40 	How a browser sees a web page
-- p.44 	How HTML, CSS, JS work together			
+- p.44 	How HTML, CSS, JS work together
 - p.45 	Progressive enhancement
 - p.51 	JavaScript runs where it is found in the HTML
 
