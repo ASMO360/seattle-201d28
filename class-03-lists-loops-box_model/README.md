@@ -7,17 +7,19 @@
 
 ##### Quiz 2 will be published after lab tomorrow and will be due at 11:59pm Friday night
 
-####Announcements
+#### Announcements
 
-####Schedule for today
+#### Schedule for today
+- Notes:
+  - Anything top of mind?
+  - Learning Journal
 
-- [Code Review](#codereview) *[30 minutes]*
-- [JS Control Flow](#control) *[45 minutes]*
-
-**15 minute break**
-
-- [CSS Box Model](#box) *[30 minutes]*
-- [Git Branches & Lab Prep](#git) *[45 minutes]*
+- Code Review _Guessing Game_
+- Git _Working on Branches_
+- Linters _ESLint & .eslintrc.json_
+- HTML _Lists_
+- JS Control Flow _Working with Loops_
+- CSS _The Box Model_
 
 **Learning Objectives**
 
