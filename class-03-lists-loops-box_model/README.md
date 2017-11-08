@@ -16,6 +16,7 @@
 
 - Code Review _Guessing Game_
 - Git _Working on Branches_
+  - .gitignore config files
 - Linters _ESLint & .eslintrc.json_
 - HTML _Lists_
 - JS Control Flow _Working with Loops_
