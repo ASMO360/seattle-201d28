@@ -3,16 +3,15 @@
 <a id="top"></a>
 # Today's Plan: Lecture 3
 
-##### Quiz 1 will be published today and will be due at 11:59pm tomorrow night
-
-##### Quiz 2 will be published after lab tomorrow and will be due at 11:59pm Friday night
 
 #### Announcements
+- This rockes. I are rendering!!
 
 #### Schedule for today
 - Notes:
   - Anything top of mind?
   - Learning Journal
+  - Quiz 2 will be published after lab tomorrow and will be due at 11:59pm Friday night
 
 - Code Review _Guessing Game_
 - Git _Working on Branches_
