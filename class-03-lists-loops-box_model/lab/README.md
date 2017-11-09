@@ -27,7 +27,6 @@ It can be very handy to take notes and sketch things out when you are planning y
 ### Technical Requirements
 - Per the user stories, you will need to include in your HTML at least one each of an ordered and an unordered list.
 - Use `prompt`for input and `alert` for output to the user, unless you are working on the third Stretch Goal.
-- Do not use any 'switch' statements in your JavaScript.
 - Do not write any functions in your JavaScript.
 - Expect that you will probably need both 'for' and 'while' structures for your sixth and seventh questions. But not necessarily.
 

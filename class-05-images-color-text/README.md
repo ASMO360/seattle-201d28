@@ -1,26 +1,17 @@
 # Class 5: Understanding Images, plus CSS for Color & Text Styling
 
 <a id="top"></a>
-# Today's Plan: Lecture 5
 
-#### We will start today by going over Quiz 1, which was due last night.
+## Daily Plan
+- Notes:
+	- Anything top of mind?
+	- Jeff Malek, CEO _Introductions at 11:50p_
 
-#### Reminder: Quiz 2 is due at 11:59pm tonight.
-
-#### Quiz 3 will be published tonight.
-
-- Announcements
-	- **Reminder:** Quizzes are open-book, so use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
-	- **Reminder:** Weekly surveys will go out to students in email. Your survey responses are very helpful and meaningful to us. Feedback is a gift.
-
-### Today's Schedule
-- Quiz review and announcements [15 minutes]
-- [Instead of code review, a look at the readings and a smattering of topics](#smattering) *[75 minutes]*
-
-**break**
-
-- [Git Branching, including deployment] (#git) *[30 minutes]*
-- [Lab Overview](#lab) *[45 minutes]*
+- Code Review _JS Functions_
+- HTML _Images_
+- CSS _Color & Text Styling_
+- Deployment _We'll put our about me site online!_
+- Lab Preview
 
 **Learning Objectives**
 
