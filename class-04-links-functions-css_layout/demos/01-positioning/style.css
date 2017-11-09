@@ -1,0 +1,57 @@
+header {
+  background-color: gray;
+  height: 25px;
+}
+
+nav li {
+  float: left;
+}
+
+.nav-list {
+  text-align: right;
+  margin-right: 25px;
+}
+
+.nav-list li {
+  list-style: none;
+  display: inline;
+  margin: 2px 4px;
+}
+
+/* Position values: Relative, Fixed, Absolute, Static */
+main {
+  position: relative;
+}
+
+aside {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  border: 1px solid gray;
+  background-color: lightgray;
+  display: inline-block;
+}
+
+aside ul {
+  padding: 0;
+  margin: 0;
+}
+
+aside li {
+  list-style: none;
+}
+
+.content {
+  margin-left: 70px;
+  margin-bottom: 60px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  z-index: 10;
+}
