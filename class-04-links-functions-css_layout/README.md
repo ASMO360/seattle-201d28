@@ -3,23 +3,15 @@
 <a id="top"></a>
 # Today's Plan: Lecture 4
 
-#### Quiz 1 is due at 11:59p tonight
-
-#### Quiz 2 will be published after lab today and will be due tomorrow night.
-
-- Announcements
-
+## Daily Plan
+- Notes:
+	- Anything top of mind?
 	- Keep in mind that the quizzes are open-book, so do use the resources you choose to figure out the answers: books, internetz, JS console in your browser, whatever. And remember that the quizzes are preparing you for the 301 entrance exam, which you will take on the last weekend of this class (right before Project Week).
 
-- [Code Review](#codereview) *[45 minutes]:*
-
-- [CSS box model + layout](#css) *[45 minutes]:*
-
-*15 minute break*
-
-- [JS functions](#js) *[45 minutes]:*
-
-- [Look at the lab assignment, including PAIR PROGRAMMING](#lab) *[45 minutes]:*
+- Code Review _Control Flow & Git Branching_
+- CSS _Layout_
+- JS Functions
+- Lab Preview _Pair Programming!!_
 
 **Learning Objectives**
 
