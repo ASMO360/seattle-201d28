@@ -1,0 +1,32 @@
+html, body {
+  width: 960px;
+}
+
+.main-imgs {
+  width: 80%;
+  height: 750px;
+  border: 1px solid grey;
+}
+
+.main-imgs img {
+  border: 1px solid red;
+  max-width: 25%;
+}
+
+header {
+  background: #faf;
+}
+
+
+/* Color values */
+/* #Hex codes */
+/* #00(R) 00(G) 00(B) */
+body {
+  color: #333;
+}
+/* RGB / RGBA */
+body {
+  color: rgb(255, 0, 0);
+  color: rgba(255, 0, 0, 1);
+}
+/* Names / Literals */
