@@ -5,7 +5,8 @@
 ## Daily Plan
 - Notes:
 	- Anything top of mind?
-	- Jeff Malek, CEO _Introductions at 11:50p_
+	- Final Presentations: 201d27 _1030a-1130a_
+	- Jeff Malek, CEO _Introduction 1150a_
 
 - Code Review _JS Functions_
 - HTML _Images_
@@ -75,7 +76,6 @@ As a result of completing Lecture 5 of Code 201, students will:
 - Array methods
 - Function declarations vs. function assignments
 - CSS Zen Garden
-- HAMs
 
 <a id="git"></a>
 ## Git branching, including deployment
