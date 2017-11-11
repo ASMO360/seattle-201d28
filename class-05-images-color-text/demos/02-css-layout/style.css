@@ -1,0 +1,88 @@
+/* RESETS */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: helvetica;
+  font-size: 2vw;
+  list-style: none;
+  line-height: 2.5vw;
+}
+
+main.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header, footer {
+  width: 100%;
+  background: #333;
+  color: #ddd;
+  position: relative;
+}
+
+header * {
+  display: inline-block;
+}
+
+.main-header h1 {
+  position: absolute;
+  left: 5%;
+  top: 25%;
+}
+
+header img {
+  margin-top: .5%;
+  margin-left: .5%;
+  width: 4vw;
+}
+
+.nav-menu {
+  position: absolute;
+  right: 0;
+  top: 25%;
+  width: 25%;
+}
+
+.nav-menu li {
+  padding-right: 2vw;
+}
+
+.nav-social {
+  position: fixed;
+  left: 0;
+  top: 15%;
+  border: 1px solid #000;
+  color: #ddd;
+  background: #333;
+  border-top-right-radius: .25vw;
+  border-bottom-right-radius: .25vw;
+}
+
+.nav-social img {
+  padding: .75vw;
+  border-radius: 2vw;
+}
+
+.main-content {
+  margin-top: 3vw;
+  margin-bottom: 8vw;
+  text-indent: 1.25vw;
+}
+
+.main-content img {
+  float: left;
+  margin-right: 2vw;
+  margin-bottom: 2vw;
+  width: 30vw;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  height: 6vw;
+}
+
+footer p {
+  width: 25%;
+  margin: 2.5vw auto;
+}
