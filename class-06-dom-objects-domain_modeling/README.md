@@ -1,12 +1,16 @@
 <a id="top"></a>
-# Today's Plan: Lecture 6
 
-- Announcements
-  - Quiz 2 will be published today. It will be due at 11:59p tomorrow night.
-- Go over student surveys *[15 minutes]*
-- [Code Review](#codereview) *[30 minutes]*
-- [Go over the assigned readings](#readings) *[60 minutes]*
-- [Code demo](#code) *[75 minutes]*
+## Daily Plan
+- Notes:
+  - Anything top of mind?
+  - 1:1s with Scott _Happening this week!_
+
+- Code Review _Lets discuss Friday's lab_
+- Object Oriented Programming / Domain Modeling
+- DOM _What is this thing?_
+  - Working with dynamically generated / changing data in the browser
+- JS Objects _Properties, Methods, and All things objects!_
+- Lab Preview _Salmon Cookies!_
 
 **Learning Objectives**
 
