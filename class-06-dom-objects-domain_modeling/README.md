@@ -3,6 +3,11 @@
 ## Daily Plan
 - Notes:
   - Anything top of mind?
+  - Reminders:
+    - 9-12 lectures will be the norm for the most part going forward!
+    - Lecture demos are posted in the class repo, under the respective days
+
+  - Looking forward _What are we absorbing this week?_
   - 1:1s with Scott _Happening this week!_
 
 - Code Review _Lets discuss Friday's lab_
